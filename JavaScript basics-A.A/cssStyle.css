@@ -1,0 +1,35 @@
+div {
+    background-color: #1B335D;
+    padding: 10px 5px;
+}
+
+header {
+    background-color: #D72638;
+    color: #DACFD4;
+    border-radius: 5px;
+}
+a{
+    color: #64D0D9;
+}
+
+nav {
+    display: inline-block;
+    background-color: #087E8A;
+    color: #64D0D9;
+    border-radius: 5px;
+    vertical-align: top;
+}
+
+section {
+    display: inline-block;
+    background-color: #0B1821;
+    color: #A5C3E4;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #5D6673;
+    border-radius: 10px;
+    padding: 1px;
+    text-indent: 10px;
+}
